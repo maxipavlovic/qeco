@@ -1,0 +1,1 @@
+Extendable IoT core.
